@@ -1,0 +1,35 @@
+.small__graph__blue__bottom{
+    background-color: white;
+    height: 12vh;
+    width: 15vw;
+    margin-left: 30px;
+    border-radius: 13px;
+    box-shadow: 4px 4px 13px 0px rgba(0,0,0,0.75);
+}
+.small__graph__blue__bottom h5{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.blue__bottom__para{
+    text-align: center;
+    border-bottom: 1px solid black;
+    width: 80%;
+    margin-left: 10%;
+}
+.green {
+    margin-top: 10%;
+}
+.blue__border__bottom__para{
+    display: flex;
+    margin-top: 4%;
+}
+.small__graph__blue__bottom h4{
+    font-size: 30px;
+    margin-left: 3%;
+    color: #0F26F2;
+}
+.small__graph__blue__bottom img{
+    margin-left: 18%;
+}

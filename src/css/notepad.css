@@ -1,0 +1,43 @@
+.notepad{
+    background-color: white;
+    height: 32vh;
+    width: 20vw;
+    margin-left: 30px;
+    border-radius: 13px;
+    box-shadow: 4px 4px 13px 0px rgba(0,0,0,0.75);
+}
+.notepad__title{
+    margin-right: 50%;
+    padding-top: 5%;
+}
+.notepad__title h3{
+    font-size: 25px;
+    margin-left: 10%;
+}
+.notepad__content{
+    display: flex;
+}
+.notepad__content h4{
+    font-size: 20px;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+.notepad__content h5{
+    font-size: 15px;
+    margin-left:10px;
+    color: gray;
+    margin-top: 20px;
+}
+#manas{
+    float: right;
+    cursor: pointer;
+}
+.input__enter{
+margin-left: 20%;
+
+}
+.input__enter input{
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+}

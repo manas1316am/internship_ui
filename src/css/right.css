@@ -1,0 +1,35 @@
+.right__side{
+    width: 20vw;
+    height: 70vh;
+    margin-top: 14vh;
+    background-color: white;
+    border-radius: 13px;
+    box-shadow: 4px 4px 13px 0px rgba(0,0,0,0.75);
+}
+.right__side__buttons{
+    width: 20vw;
+    height: 10vh;
+    background-color: white;
+    border-radius: 13px 13px 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.right__side__buttons h4:nth-child(1){
+    margin-top: 0%;
+    margin-left: 4%;
+    font-size: 25px;
+}
+.right__side__buttons h4:nth-child(2){
+    margin-top: 0%;
+    margin-right: 5%;
+    font-size: 25px;
+}
+.see_more{
+    padding: 10px;
+
+    display: grid;
+    place-items: center;
+    transform: translateY(70px);
+    cursor: pointer;
+}

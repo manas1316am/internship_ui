@@ -1,0 +1,81 @@
+button{
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+ol{
+    list-style-type: none;
+}
+.post__write{
+    background-color: white;
+    width: 80vw;
+    height: 30vh;
+    margin: 2%;
+    border-radius: 13px;
+    box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+}
+.post__input{
+    height: 50%;
+    width: 95%;
+    margin: 2%;
+    border-radius: 13px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+}   
+.second__button{
+    display: flex;
+    margin-right: 10%;
+}
+.post__buttons{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.attach__button{
+    color: black;
+    background-color: #FFC47F;
+    padding: 15px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.attach__icon{
+    transform: rotateZ(40deg);
+    color: var(--bgc);
+}
+.cancel__button button{
+    font-weight: bold;
+    font-size: 25px;
+    width: 100px;
+    height: 50px;
+    margin-left: 50%;
+    color: #EF3E36;
+    background: none;
+}
+.share__button{
+    display: flex;
+}
+.share__button button{
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 30%;
+    background-color: var(--bgc);
+    border-radius: 15px;
+    color: white;
+}
+.share__btn__arrow__down{
+    width: 50px;
+    height: 50px;
+    padding: 12px;
+    background-color: #fff;
+    margin-left: 30px;
+    border-radius: 0 15px 15px 0;
+    background-color: #FFC47F;
+}
+.arrow__down{
+    transform: rotateZ(-90deg);
+    color: var(--bgc);
+}

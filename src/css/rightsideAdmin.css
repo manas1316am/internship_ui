@@ -1,0 +1,27 @@
+.avatar{
+    width: 100%;
+    height: 15vh;
+    background-color: white;
+    display: flex;
+    border-bottom: 1px solid black;
+}
+
+.face{
+    width: 20%;
+    height: 60%;
+    background-color: #fff;
+    transform: translateX(30%) translateY(30%);
+}
+.avatar__title{
+    font-size: 15px;
+    margin-top: 2%;
+    margin-left: 10%;
+}
+.avatar__title p:nth-child(2){
+    font-size: 14px;
+    margin-top: 10px;
+}
+.avatar__title p:nth-child(3){
+    font-size: 10px;
+    margin-top: 10px;
+}

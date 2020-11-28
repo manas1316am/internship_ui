@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+:root{
+    --font-family: 'Source Sans Pro', sans-serif;
+    --background: #E5E5E5;
+
+    --font-size: 30px;
+    --font-style: normal;
+    --font-weight: 700;
+    --line-height: 36px;
+    --letter-spacing: 0px;
+    --text-align: left;
+
+    --bgc: #FF6C40;
+    --text-color: #fff;
+    --yellow: #ffe700;
+    --green: #1ffd77;
+    --search: #E2E2E2;
+    --hover-cl: #FFC480;
+
+    --light-green: #00FF11;
+    --txt-lightcolor: #0F26F2;
+
+    /* admin panel right */
+    --admin-first: #FFD9D9;
+    --admin-second: #D9FFE1;
+    --admin-third: #BA99FF;
+    --admin-fourth: #F5E764;
+
+    
+    --border-radius: 0px 15px 15px 0px;
+
+    --box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.05);
+}
+a{
+    text-decoration: none;
+}
